@@ -48,9 +48,6 @@ playground.xcworkspace
 
 .build/
 
-#Ignores ApolloCodegen files
-ApolloCodegen/
-
 # CocoaPods
 #
 # We recommend against adding the Pods directory to your .gitignore. However
