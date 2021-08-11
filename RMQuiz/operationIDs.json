@@ -1,0 +1,6 @@
+{
+  "dec53fa94dca7e92f7032bccaed8644d7c2233aa8bbc17991b2fff5b26e1c6d8": {
+    "name": "CharactersQuestion",
+    "source": "query CharactersQuestion($ids: [ID!]!) {\n  charactersByIds(ids: $ids) {\n    __typename\n    name\n    image\n  }\n}"
+  }
+}
